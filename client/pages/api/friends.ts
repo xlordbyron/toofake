@@ -8,7 +8,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     let headers = {
         "authorization": "Bearer " + authorization_token,
         "bereal-app-version-code": "14549",
-        "bereal-signature": "MToxNzEwOTU0MTc2OmPlM3WPWqPWRq7EseRiT98fErcmwWg1yUatGmYZnzaH",
+        "bereal-signature": "MToxNzExNTc0ODYyOoqIZ5a9FAreOBIuDRzjdonbo6QGGOQDNCQzQ5vC1UI4",
         'bereal-device-id': '937v3jb942b0h6u9',
         'bereal-timezone': 'Europe/Paris',
     }
